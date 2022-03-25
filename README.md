@@ -1,0 +1,2 @@
+# socket
+Capacitor Socket plugin
